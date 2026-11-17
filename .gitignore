@@ -1,0 +1,8 @@
+# Generated capacity reports may contain customer infrastructure names.
+HyperV-Reports/
+Reports/
+**/Host-samples.csv
+**/VM-samples.csv
+**/Host-summary.csv
+**/VM-summary.csv
+**/Report.html
